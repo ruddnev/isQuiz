@@ -35,8 +35,8 @@ export default {
     </nav>
 
     <div class="video-with-quiz">
-      <div class="video"><iframe src="https://vk.com/video_ext.php?oid=-220754053&id=456239397&hd=2" frameborder="0" allow="autoplay; picture-in-picture" allowfullscreen></iframe></div>
-      <div class="quiz"><iframe src="https://audience.ahaslides.com/" frameborder="0" allow="autoplay; picture-in-picture"></iframe></div>
+      <div class="video"><iframe src="https://www.youtube.com/embed/a2vE4aRogjI?rel=0&iv_load_policy=3&controls=0" width="560" height="315" title="A YouTube video" frameborder="0" allowfullscreen></iframe></div>
+      <div class="quiz"><iframe src="https://play.myquiz.ru/p/00615924" frameborder="0" allow="autoplay; picture-in-picture"></iframe></div>
     </div>
 </template>
 
